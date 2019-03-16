@@ -4,7 +4,7 @@ At present the codes present in the repository are:
 
 
 | S.No: | **Problem Title** | **Description** |**Solution Codes|
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          ---: |          ---: |
 | 1   | **Binary Search**     | [Bin.Srch.doc](Problems/Bin.Srch.doc)    |[bisrch.cpp](SolnCodes/bisrch.cpp)|
 | 2   | **Inversion Count**   | [Inv.Count.doc](Problems/Inv.Count.doc)      |[invcnt.cpp](SolnCodes/invcnt.cpp)|
 | 3   | **Find Sum**          | [FindSum.doc](Problems/FindSum.doc)    |[findSum.cpp](SolnCodes/findSum.cpp)|
