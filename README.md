@@ -5,7 +5,7 @@ At present the codes present in the repository are:
 
 | S.No: | **Problem Title** | **Description** |
 | :---         |     :---:      |          ---: |
-| 1   | **Binary Search**     | Bin.Srch.doc (Bin.Srch.doc)   |
+| 1   | **Binary Search**     | Bin.Srch.doc    |
 | 2   | **Inversion Count**   | git diff      |
 | 3   | **Find Sum**          | git status    |
 | 4   | **Find Min-Max**      | git diff      |
