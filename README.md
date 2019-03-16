@@ -1,37 +1,21 @@
 # ADA
 This repository contains codes for various algorithm design problems.
 At present the codes present in the repository are:
-|** S.No:** | **Problem Title **|** Testing Type** |
+
+
+| **S.No: **| **Problem Title** | **Description** |
 | :---         |     :---:      |          ---: |
-|1.	|**Binary Search** |FBT|
-|2.	|**Inversion Count**|FBT|
-|3.	|**Find Sum**|FBT	|
-|4.	|**Find Min-Max**	|CLT|	
-|5.	|**Merge Sort**	|CLT	|
-|6.	|**Insertion Sort**	|FBT |	
-|7.	|**Major Element**	|CLT	|
-|8.	|**Finding Square Root**	|CLT	|
-|9.	|**Maximizing Subarray Sum**	|CLT |
-|10.|	**Hello to Course**	|CLT	|
-
-| S.No: | Problem Title | Testing Type |
-| :---         |     :---:      |          ---: |
-| 1   | git status     | git status    |
-| 2     | git diff       | git diff      |
-| 3   | git status     | git status    |
-| 4     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| 1   | **Binary Search**     | git status    |
+| 2   | **Inversion Count**   | git diff      |
+| 3   | **Find Sum**          | git status    |
+| 4   | **Find Min-Max**      | git diff      |
+| 5   | **Merge Sort**        | git status    |
+| 6   | **Insertion Sort**    | git diff      |
+| 7   | **Major Element**     | git status    |
+| 8   | **Finding Square Root**| git diff      |
+| 9   | **Maximizing Subarray Sum**| git status    |
 
 
 
-FBT: File based testing
-CBT: Command line based testing
+
+
